@@ -21,5 +21,6 @@ module.exports = {
     'react/react-in-jsx-scope': 'off',
     'react/jsx-filename-extension': 'off',
     'no-unused-vars': 'off',
+    'import/prefer-default-export': 'off',
   },
 };
